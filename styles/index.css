@@ -1,0 +1,15 @@
+:root {
+    --fondo: #330133;
+    --fondo-claro: #860270;
+    --texto: #fff;
+}
+
+body {
+    background: var(--fondo);
+}
+
+h1 {
+    color: var(--texto);
+    text-align: center;
+    margin: 20px 0;
+}
